@@ -1,5 +1,5 @@
 # AI Resume Reviewer (JD‑aware)
-Evaluate a resume against a Job Description (JD): ATS score, missing keywords, quantified bullet rewrites, positioning summary, and a short cover letter. Built for CS4990 Final Project.
+Evaluate a resume against a Job Description (JD): ATS score, missing keywords, quantified bullet rewrites, positioning summary, and a short cover letter. Built for CS4680 Final Project.
 
 **Repo owner:** `thanhdat3103`  
 **Tech:** React (Vite) · FastAPI · OpenAI API or Ollama (local) · Strict JSON prompts · File parsing (PDF/DOCX/TXT/MD/TEX)
@@ -7,8 +7,8 @@ Evaluate a resume against a Job Description (JD): ATS score, missing keywords, q
 ---
 
 ## 🔗 Demo Assets (fill in when ready)
-- **Slides:** https://docs.google.com/presentation/…
-- **Demo Video (YouTube, Unlisted):** https://youtu.be/…
+- **Slides:** https://docs.google.com/presentation/d/18FlVPxmwaG_7jckEEMQJxfSUsxx3zk6Iw2GCBsnuwNk/edit?usp=sharing
+- **Demo Video (YouTube, Unlisted):** https://youtu.be/EoEi0e5IUP4
 - **GitHub Repo:** https://github.com/thanhdat3103/ai-resume-reviewer
 
 > Tip: Keep video 3–5 minutes. Use the script in this README.
